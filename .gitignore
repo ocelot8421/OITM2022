@@ -1,0 +1,3 @@
+# Project exclude paths
+/src/main/java/no1_fordulo/VodafoneSpringBoot/
+/target/
